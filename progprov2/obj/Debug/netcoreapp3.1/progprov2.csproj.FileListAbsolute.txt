@@ -1,0 +1,13 @@
+C:\Users\oscar.lindfors2\Dropbox\Programering 2\Progprov2\progprov2\bin\Debug\netcoreapp3.1\progprov2.exe
+C:\Users\oscar.lindfors2\Dropbox\Programering 2\Progprov2\progprov2\bin\Debug\netcoreapp3.1\progprov2.deps.json
+C:\Users\oscar.lindfors2\Dropbox\Programering 2\Progprov2\progprov2\bin\Debug\netcoreapp3.1\progprov2.runtimeconfig.json
+C:\Users\oscar.lindfors2\Dropbox\Programering 2\Progprov2\progprov2\bin\Debug\netcoreapp3.1\progprov2.runtimeconfig.dev.json
+C:\Users\oscar.lindfors2\Dropbox\Programering 2\Progprov2\progprov2\bin\Debug\netcoreapp3.1\progprov2.dll
+C:\Users\oscar.lindfors2\Dropbox\Programering 2\Progprov2\progprov2\bin\Debug\netcoreapp3.1\progprov2.pdb
+C:\Users\oscar.lindfors2\Dropbox\Programering 2\Progprov2\progprov2\obj\Debug\netcoreapp3.1\progprov2.csprojAssemblyReference.cache
+C:\Users\oscar.lindfors2\Dropbox\Programering 2\Progprov2\progprov2\obj\Debug\netcoreapp3.1\progprov2.AssemblyInfoInputs.cache
+C:\Users\oscar.lindfors2\Dropbox\Programering 2\Progprov2\progprov2\obj\Debug\netcoreapp3.1\progprov2.AssemblyInfo.cs
+C:\Users\oscar.lindfors2\Dropbox\Programering 2\Progprov2\progprov2\obj\Debug\netcoreapp3.1\progprov2.csproj.CoreCompileInputs.cache
+C:\Users\oscar.lindfors2\Dropbox\Programering 2\Progprov2\progprov2\obj\Debug\netcoreapp3.1\progprov2.dll
+C:\Users\oscar.lindfors2\Dropbox\Programering 2\Progprov2\progprov2\obj\Debug\netcoreapp3.1\progprov2.pdb
+C:\Users\oscar.lindfors2\Dropbox\Programering 2\Progprov2\progprov2\obj\Debug\netcoreapp3.1\progprov2.genruntimeconfig.cache
